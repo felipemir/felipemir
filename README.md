@@ -1,5 +1,5 @@
-<!-- - 👋 Hi, I’m @Felipemir
-Bem vindos ao meu perfil no github, meu nome é Robson Felipe e sou um estudante de desenvolvimento web na trybe. 
+👋 Hi, I’m @Felipemir
+Bem vindos ao meu perfil no github, meu nome é Robson Felipe e sou um desenvolvedor backend. 
 
 <!---
 Felipemir/felipemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
